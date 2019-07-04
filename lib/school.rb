@@ -13,3 +13,8 @@ class School
   
   hash
   => {"new_key"=>["new_value_for_value_array"]}
+  
+  school.grade(9)
+  
+  school.sort 
+  
